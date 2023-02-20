@@ -1,0 +1,18 @@
+.myBtn{
+
+    padding: 5px;
+    color: #ffc4db;
+    font-size: 14px;
+    background: transparent;
+    border:1px solid teal;
+    cursor: pointer;
+}
+
+.myInp{
+    width: 100%;
+    padding: 10px 15px;
+    color:seagreen;
+    font-size:20px;
+    margin: 5px 0;
+    border: 1px solid teal;
+}
